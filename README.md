@@ -1,2 +1,2 @@
-# -2015-Wizard-of-Earthsea-
+# 2015-Wizard-of-Earthsea-
 NEA BIG READ
