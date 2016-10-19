@@ -1,7 +1,7 @@
 # 2015-Wizard-of-Earthsea-
 NEA BIG READ
 
-Unity 5.3 project  - use EarthseaFinalSceneV7 scene
+Unity 5.3 project  - use EarthseaFinalSceneV7 scene (Unity Project is coming)
 
 This uses multiple bought assets from Unity Asset Store - please acquire to use this.
 
